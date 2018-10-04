@@ -1,0 +1,12 @@
+.objetoContenedor {
+  display: block;
+    margin-bottom: 40px;
+}
+
+.lista {
+  list-style: none;
+}
+
+.texto {
+  line-height: 0;
+}
